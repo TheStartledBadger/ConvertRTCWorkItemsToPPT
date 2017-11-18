@@ -1,6 +1,6 @@
 ﻿namespace CsvToPPT
 {
-    partial class Form1
+    partial class StartupForm
     {
         /// <summary>
         /// Required designer variable.
